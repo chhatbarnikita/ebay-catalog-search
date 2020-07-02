@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF884D</color>
+    <color name="colorPrimaryDark">#FF884D</color>
+    <color name="colorAccent">#B794F6</color>
+    <color name="ebay_blue">#3377FF</color>
+    <color name="black">#000000</color>
+    <color name="lemon_green">#9ACD32</color>
+</resources>

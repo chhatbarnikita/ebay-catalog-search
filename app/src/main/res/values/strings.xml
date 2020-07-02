@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">eBay Catalog Search</string>
+    <string name="keyword">Keyword</string>
+    <string name="kwdPlaceholder">Enter Keyword</string>
+    <string name="priceTxt">Price Range</string>
+    <string name="minPrice">Minimum Price</string>
+    <string name="maxPrice">Maximum Price</string>
+    <string name="condition">Condition</string>
+    <string name="newConditionValue">New</string>
+    <string name="usedConditionValue">Used</string>
+    <string name="unspecifiedConditionValue">Unspecified</string>
+    <string name="sortBy">Sort By</string>
+    <string name="kwdError">Keyword error</string>
+    <string name="priceError">Price error</string>
+    <string-array name="sortCategory">
+        <item>Best Match</item>
+        <item>Price: Highest first</item>
+        <item>Price + Shipping: Highest first</item>
+        <item>Price + Shipping: Lowest first</item>
+    </string-array>
+    <string name="keywordErrorDisplay">Please enter mandatory field</string>
+    <string name="priceErrorDisplay">Please enter valid price values</string>
+    <string name="toastError">Please fix all fields with errors</string>
+    <string name="noRecords">No Records</string>
+</resources>
