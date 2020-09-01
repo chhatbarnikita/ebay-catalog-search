@@ -15,6 +15,6 @@ Prodicts list:
 
 Product Details:
 
-![Image of Product Specs Screen](https://github.com/chhatbarnikita/ebay-catalog-search/blob/master/images/product_specs.png)
+![Image of Product Spec Screen](https://github.com/chhatbarnikita/ebay-catalog-search/blob/master/images/product_spec.png)
 ![Image of Seller Info Screen](https://github.com/chhatbarnikita/ebay-catalog-search/blob/master/images/seller_info.png)
 ![Image of Shipping Info Screen](https://github.com/chhatbarnikita/ebay-catalog-search/blob/master/images/shipping_info.png)
