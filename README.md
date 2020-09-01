@@ -3,4 +3,4 @@ An android application that allows user to search products available on the Ebay
 
 Splash screen:
 
-![Image of Splash Screen](https://github.com/chhatbarnikita/ebay-catalog-search/images/splash_screen.png)
+![Image of Splash Screen](https://github.com/chhatbarnikita/ebay-catalog-search/blob/master/images/splash_screen.png)
